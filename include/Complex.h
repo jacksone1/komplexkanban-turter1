@@ -18,7 +18,7 @@ Modified : _______
 using namespace std;
 
 class Complex {
-
+    Complex();
     //----------------------------------------- OPERATOR OVERLOADS -----------------------------------------------------
 
     /**
